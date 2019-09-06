@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ElementTree
 import csv
 tree = ET.parse("info.xml")
 root = tree.getroot()
-resident_data = open('info.csv','w')
+resident_data = open("info.csv",'w')
 csvwriter = csv.writer(resident_data)
 resident_head = []
 
