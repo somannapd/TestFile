@@ -1,0 +1,20 @@
+<country>
+<resident1>
+	<name>John</name>
+	<number>145276839</number>
+	<city>Toronto</city>
+	<postcode>AB3N6</postcode>
+</resident1>
+<resident2>
+	<name>Mike</name>
+	<number>839647123</number>
+	<city>Windsor</city>
+	<postcode>NM34Q</postcode>
+</resident2>
+<resident3>
+	<name>Shawn</name>
+	<number>784967284</number>
+	<city>Quebec</city>
+	<postcode>S162FV</postcode>
+</resident3>
+</country>
